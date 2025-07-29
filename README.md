@@ -36,10 +36,12 @@ Voici la structure des dossiers et fichiers dans ce projet :
 
 ## ▶️ Prévisualisation
 
-![Screenshot du dashboard](Repartition_des_gaz.png)
+### Répartition des gaz à effet de serre
+![Répartition](Repartition_des_gaz.png)
 
+### Évolution temporelle du CO₂
+![Croissance temporelle](Croissance_temporelle.png)
 
-![Screenshot du dashboard](Croissance_temporelle.png)
 
 > 💡 Si vous ne voyez pas l’image, vérifiez le dossier `/screenshots` ou ouvrez le fichier `.pbix` avec Power BI Desktop.
 
