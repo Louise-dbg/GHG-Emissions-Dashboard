@@ -37,7 +37,7 @@ Voici la structure des dossiers et fichiers dans ce projet :
 ## ▶️ Prévisualisation
 
 ### Répartition des gaz à effet de serre
-![Répartition](Repartition_des_gaz.png)
+![Repartition_des_gaz](Repartition_des_gaz.png)
 
 ### Évolution temporelle du CO₂
 ![Croissance temporelle](Croissance_temporelle.png)
