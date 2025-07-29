@@ -43,7 +43,7 @@ Voici la structure des dossiers et fichiers dans ce projet :
 ![Croissance_temporelle](Croissance_temporelle.png)
 
 
-> 💡 Si vous ne voyez pas l’image, vérifiez le dossier `/screenshots` ou ouvrez le fichier `.pbix` avec Power BI Desktop.
+> 💡 Si vous ne voyez pas l’image, ouvrez le fichier `.pbix` avec Power BI Desktop.
 
 ## 🚀 Utilisation
 
