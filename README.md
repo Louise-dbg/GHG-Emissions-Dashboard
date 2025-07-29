@@ -38,6 +38,7 @@ Voici la structure des dossiers et fichiers dans ce projet :
 
 ![Screenshot du dashboard](Repartition_des_gaz.png)
 
+
 ![Screenshot du dashboard](Croissance_temporelle.png)
 
 > 💡 Si vous ne voyez pas l’image, vérifiez le dossier `/screenshots` ou ouvrez le fichier `.pbix` avec Power BI Desktop.
